@@ -1,0 +1,28 @@
+body{
+  display: block;
+  background: url('../images/material.png') fixed;
+   
+}
+green{
+  color:green;
+}
+yellow{
+  color:orange;
+}
+header{
+  min-height: 70%;
+  height: 616px;
+  max-height: 100%;
+}
+.header{
+    background-color: rgba(33,150,243,0.65) !important;
+    height: 100%;
+    box-shadow: 0 0 18px rgba(0,0,0,0.8);
+}
+container{
+  box-sizing: border-box;
+  height: 30%;
+  display:block;
+  padding:15px;
+  background-color: rgba(250,250,250,1)
+}
